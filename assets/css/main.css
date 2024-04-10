@@ -14099,14 +14099,14 @@ footer a:hover { color: #7cb342; }
 
 .title { font-family: "Roboto Slab", "Times New Roman", serif; }
 
-a { color: #7cb342; text-decoration: none; }
+a { color: #5e93db; text-decoration: none; }
 a:hover { text-decoration: none; }
 
 .plain-link .fa { color: #747373; }
 
 .navbar-brand a { color: #f8f9fa !important; }
 
-.navbar-active a { color: #7cb342 !important; }
+.navbar-active a { color: #5e93db !important; }
 
 .arrow-icon { color: #90a4ae; background: #90a4ae; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: initial; }
 .arrow-icon:hover { color: #cbd4d9; background: #cbd4d9; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; }
@@ -14132,21 +14132,21 @@ a:hover { text-decoration: none; }
 .wp-icon { color: #21759b; background: #21759b; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: initial; }
 .wp-icon:hover { color: #4aacd8; background: #4aacd8; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; }
 
-.cv h3 { color: #7cb342; }
+.cv h3 { color: #5e93db; }
 
 .bibliography .abbr a:hover { background: #ff4444 !important; }
 
-progress { /* Reset the appearance */ -webkit-appearance: none; -moz-appearance: none; appearance: none; /* Get rid of the default border in Firefox/Opera. */ border: none; /* Progress bar container for Firefox/IE10+ */ background-color: transparent; /* Progress bar value for IE10+ */ color: #7cb342; }
+progress { /* Reset the appearance */ -webkit-appearance: none; -moz-appearance: none; appearance: none; /* Get rid of the default border in Firefox/Opera. */ border: none; /* Progress bar container for Firefox/IE10+ */ background-color: transparent; /* Progress bar value for IE10+ */ color: #5e93db; }
 
 progress::-webkit-progress-bar { background-color: transparent; }
 
-progress::-webkit-progress-value { background-color: #7cb342; }
+progress::-webkit-progress-value { background-color: #5e93db; }
 
-progress::-moz-progress-bar { background-color: #7cb342; }
+progress::-moz-progress-bar { background-color: #5e93db; }
 
 .progress-container { background-color: transparent; }
 
-.progress-bar { background-color: #7cb342; }
+.progress-bar { background-color: #5e93db; }
 
 .bibliography-year { color: #ddd; text-align: right; float: right; }
 
@@ -14154,7 +14154,7 @@ progress::-moz-progress-bar { background-color: #7cb342; }
 .bibliography li .author a { color: #3c4858; border-bottom: 1px dashed; }
 .bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
 
-nobr > em { font-weight: bold; font-style: normal; color: #7cb342; }
+nobr > em { font-weight: bold; font-style: normal; color: #5e93db; }
 
 pre, code { font-family: 'Source Code Pro', monospace; font-weight: normal; font-size: 13px; line-height: 1.3em; }
 
