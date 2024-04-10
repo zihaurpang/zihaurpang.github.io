@@ -1,6 +1,6 @@
 # Zi Haur Pang's personal webpage
 
-This is the personal website of Zi Haur Pang, which can be visualized at [https://otiliastr.github.io/](https://zihaurpang.github.io/).
+This is the personal website of Zi Haur Pang, which can be visualized at [https://zihaurpang.github.io/](https://zihaurpang.github.io/).
 
 ## How to use this template for your website
 
