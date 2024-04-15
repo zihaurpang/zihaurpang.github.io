@@ -33,6 +33,15 @@ $ ./bin/deploy
 ```
 Note: make sure to commit all your changes on the `src` branch before deploying!
 
+### To Update the website
+Enter to the local directory `[Username].github.io`
+Update using the code
+
+```bash
+git commit -m "Initial commit"
+git push -u origin main
+```
+
 ### Features
 
 Emphasis on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
