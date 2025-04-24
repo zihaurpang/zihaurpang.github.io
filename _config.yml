@@ -28,7 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zi Haur Pang"
-  avatar           : "images/android-chrome-512x512.jpg"
+  avatar           : "profile_pic.png"
   bio              : "PhD Student"
   location         : "Kyoto, Japan"
   employer         : "Kyoto University"
