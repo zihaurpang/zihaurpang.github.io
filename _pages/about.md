@@ -19,13 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jinxiang Xie (pronounced as "JIN-shee-ahng SHEE-eh"). I'm a fourth-year undergraduate student majoring in Information and Computing Science at <i class="fas fa-university"></i> **Beijing Jiaotong University**. I am currently a research intern at <i class="fab fa-microsoft"></i> **Microsoft** working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>.
-Previously, I was honored to conduct research at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.
+Hi! I’m Zi Haur 👋
+=======
 
-I have been offered admission to the graduate program at Nanjing University for Fall 2025, providing me with a valuable window to further immerse myself in research. **I am actively seeking research assistant opportunities in LLMs applications and natural language processing**.
+I am a second-year Ph.D. student in [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervision of Professor [Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My research lies at the intersection of affective computing, human–AI/robot interaction, and spoken dialogue systems. Specifically, I investigate how multimodal embodied conversational agents—ranging from virtual avatars to human-like androids—can recognize, validate, and ultimately alleviate human emotions through natural speech. I also explore how an agent’s embodiment and conversational intelligence influence user behavior during interaction. 
 
-Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
+Feel free to reach out, or learn more from [My CV](assets/ZiHaur's CV.pdf).
 
+<!--
 <div class="highlight-blocks">
   <div class="highlight-block">
     <h3>🔬 AI Researcher</h3>
@@ -54,6 +55,7 @@ Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
     </ul>
   </div>
 </div>
+-->
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). See you in Philadelphia!
@@ -98,6 +100,7 @@ Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
 
+<!--
 # 📚 Blogs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
@@ -159,6 +162,7 @@ Introduce a number of methods for optimizing the output of large language models
 
 </div>
 </div>
+-->
 
 <!-- # 👻 Miscellaneous
 
