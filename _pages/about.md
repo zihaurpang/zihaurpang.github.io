@@ -91,7 +91,7 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
 # 📖 Educations
-- *2024.04 - Present*: &nbsp;(Expected) Doctorate of Informatics in Intelligent Science and Technology, Kyoto University.
+- *2024.04 - Present*: &nbsp;Doctorate of Informatics in Intelligent Science and Technology, Kyoto University.
 - *2022.04 - 2024.03*: &nbsp;Master of Informatics in Intelligent Science and Technology, Kyoto University.
 - *2017.01 - 2020.12*: &nbsp;Bachelor of Science (Hons) in Actuarial Science, UCSI University.
 
