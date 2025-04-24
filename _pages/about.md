@@ -67,7 +67,7 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWSDS 2024</div><img src='images/IWSDS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWSDS 2024</div><img src='images/IWSDS2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Acknowledgment of Emotional States: Generating Validating Responses for Empathetic Dialogue**
