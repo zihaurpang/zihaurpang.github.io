@@ -91,18 +91,18 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
 # 📖 Educations
-- *2024.04 - Present*: &nbsp;(Expected) Doctorate of Informatics in Intelligent Science and Technology, [Kyoto University](https://www.kyoto-u.ac.jp/en).
-- *2022.04 - 2024.03*: &nbsp;Master of Informatics in Intelligent Science and Technology, [Kyoto University](https://www.kyoto-u.ac.jp/en).
-- *2017.01 - 2020.12*: &nbsp;Bachelor of Science (Hons) in Actuarial Science, [UCSI University](https://www.ucsiuniversity.edu.my/).
+- *2024.04 - Present*: &nbsp;(Expected) Doctorate of Informatics in Intelligent Science and Technology, Kyoto University.
+- *2022.04 - 2024.03*: &nbsp;Master of Informatics in Intelligent Science and Technology, Kyoto University.
+- *2017.01 - 2020.12*: &nbsp;Bachelor of Science (Hons) in Actuarial Science, UCSI University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Professional Experience
-- *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
+- *2020.09 - 2022.03*: &nbsp;Data Scientist, [AirAsia.Com Travel Sdn. Bhd.](https://www.airasia.com/en/gb).
+- *2020.05 - 2020.12*: &nbsp;Research Assistant, [Institute of Actuarial Science and Data Analytics](https://www.ucsiuniversity.edu.my/about-us/Institute-of-Actuarial-Science-and-Data-Analytics), **UCSI University**.
+- *2019.10 - 2019.12*: &nbsp;Data Analyst Intern, [SIC Co. Ltd](https://sic-holdings.com/en/sic/).
 
 <!--
 # 📚 Blogs
