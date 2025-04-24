@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "about"
+  - title: "About Me"
     url: "/#about-me"
 
-  - title: "news"
+  - title: "News"
     url: "/#-news"
 
-  - title: "publications"
+  - title: "Publications"
     url: "/#-publications"
 
-  - title: "educations"
+  - title: "Educations"
     url: "/#-educations"
 
-  - title: "experience"
+  - title: "Experience"
     url: "/#-experience"
 
   # - title: "blogs"
