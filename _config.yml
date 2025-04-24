@@ -35,7 +35,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-nNY8m4AAAAJ"
   email            : "zihaurpang@gmail.com" 
-  researchgate     : "https://www.researchgate.net/profile/Zi-Haur-Pang?ev=hdr_xprf"
+  researchgate     : # "https://www.researchgate.net/profile/Zi-Haur-Pang?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -51,7 +51,7 @@ author:
   lastfm           :
   linkedin         : "zihaurpang0309"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0003-6650-8982"
+  orcid            : # "https://orcid.org/0009-0003-6650-8982"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
