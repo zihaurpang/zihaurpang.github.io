@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Zi Haur Pang"
-title_separator          : "-"
+title_separator          : 
 subtitle                 : 
 name                     : "Zi Haur Pang"
 description              : "Personal Website"
