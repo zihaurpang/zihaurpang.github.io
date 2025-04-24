@@ -76,7 +76,7 @@ t:
     news: "News"
     publications: "Publications"
     educations: "Educations"
-    internships: "Internships"
+    experience: "Experience"
     blogs: "Blogs"
   # zh:
   #   home: "首页"
