@@ -12,8 +12,8 @@ main:
   - title: "educations"
     url: "/#-educations"
 
-  - title: "internships"
-    url: "/#-internships"
+  - title: "professional experience"
+    url: "/#-professional experience"
 
   # - title: "blogs"
   #   url: "/#-blogs"
