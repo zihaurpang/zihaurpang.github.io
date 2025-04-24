@@ -12,7 +12,7 @@ title_separator          :
 subtitle                 : 
 name                     : "Zi Haur Pang"
 description              : "Personal Website"
-url                     : "https://zihaurpang.github.io"
+url                     : https://zihaurpang.github.io
 baseurl                 : ""
 repository               : "zihaurpang/zihaurpang.github.io"
 google_scholar_stats_use_cdn : true
