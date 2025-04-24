@@ -29,9 +29,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zi Haur Pang"
   avatar           : "images/profile_pic.png"
-  bio              : "PhD Student"
+  bio              : "Kyoto University"
   location         : "Kyoto, Japan"
-  employer         : "Kyoto University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-nNY8m4AAAAJ"
   email            : "zihaurpang@gmail.com" 
