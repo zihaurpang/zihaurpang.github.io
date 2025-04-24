@@ -7,35 +7,35 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinxiang Xie"
+title                    : "Zi Haur Pang"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Jinxiang Xie"
+name                     : "Zi Haur Pang"
 description              : "Personal Website"
-url                     : "https://jxtse.github.io"
+url                     : "https://zihaurpang.github.io"
 baseurl                 : ""
-repository               : "jxtse/jxtse.github.io"
+repository               : "zihaurpang/zihaurpang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  googlea34440bfd0246b9e.html
+google_site_verification :  # googlea34440bfd0246b9e.html
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
+  name             : "Zi Haur Pang"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Beijing Jiaotong University"
-  location         : "Beijing, China"
-  employer         :
+  bio              : "PhD Student"
+  location         : "Kyoto, Japan"
+  employer         : "Kyoto University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=-nNY8m4AAAAJ"
+  email            : "zihaurpang@gmail.com" 
+  researchgate     : "https://www.researchgate.net/profile/Zi-Haur-Pang?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,21 +43,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "zihaurpang"
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jinxiang-xie"
+  linkedin         : "zihaurpang0309"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-6650-8982"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JinxiangTse"
+  twitter          : "zihaurpang"
   vine             :
   weibo            :
   xing             :
@@ -67,7 +67,7 @@ author:
 # 添加语言设置
 languages:
   - en
-  - zh
+  # - zh
 default_lang: "en"
 t:
   en:
@@ -78,12 +78,12 @@ t:
     educations: "Educations"
     internships: "Internships"
     blogs: "Blogs"
-  zh:
-    home: "首页"
-    about: "关于"
-    publications: "发表论文"
-    projects: "项目"
-    contact: "联系方式"
+  # zh:
+  #   home: "首页"
+  #   about: "关于"
+  #   publications: "发表论文"
+  #   projects: "项目"
+  #   contact: "联系方式"
 
 # Reading Files
 include:
@@ -162,7 +162,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
