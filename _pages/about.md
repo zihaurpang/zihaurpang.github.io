@@ -58,9 +58,12 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 -->
 
 # 🔥 News
+<!--
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). See you in Philadelphia!
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
+-->
+- *2023.12*: &nbsp;🎉🎉 Our paper is accepted by [The 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS 2024)](https://sites.google.com/grp.riken.jp/iwsds2024). See you in Sapporo, Japan!
 
 # 📝 Publications 
 
@@ -88,14 +91,15 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
 # 📖 Educations
-- *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, Beijing Jiaotong University.
+- *2024.04 - Present*: &nbsp;(Expected) Doctorate of Informatics in Intelligent Science and Technology, [Kyoto University](https://www.kyoto-u.ac.jp/en).
+- *2022.04 - 2024.03*: &nbsp;Master of Informatics in Intelligent Science and Technology, [Kyoto University](https://www.kyoto-u.ac.jp/en).
+- *2017.01 - 2020.12*: &nbsp;Bachelor of Science (Hons) in Actuarial Science, [UCSI University](https://www.ucsiuniversity.edu.my/).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 💻 Professional Experience
 - *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
