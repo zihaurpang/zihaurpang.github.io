@@ -69,6 +69,18 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Does the Appearance of Autonomous Conversational Robots Affect User Spoken Behaviors in Real-World Conference Interactions?**
+
+- **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara
+- In CHI Conference on Human Factors in Computing Systems 2025
+- [[Arxiv](https://arxiv.org/abs/2503.13625)]
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/COLING2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
