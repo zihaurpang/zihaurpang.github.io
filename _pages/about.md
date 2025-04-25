@@ -63,7 +63,7 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 -->
-- *2025.02*: &nbsp;🎉🎉 Our paper is accepted by [CHI Conference on Human Factors in Computing Systems 2025 (CHI 2025](https://chi2025.acm.org/)
+- *2025.02*: &nbsp;🎉🎉 Our paper is accepted by [CHI Conference on Human Factors in Computing Systems 2025 (CHI 2025)](https://chi2025.acm.org/). See you in Yokohama, Japan!
 - *2024.11*: &nbsp;🎉🎉 Our paper is accepted by [The 31st International Conference on Computational Linguistics (COLING 2025)](https://aclanthology.org/events/coling-2025/). See you in Abu Dhabi, United Arab Emirates!
 - *2023.12*: &nbsp;🎉🎉 Our paper is accepted by [The 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS 2024)](https://sites.google.com/grp.riken.jp/iwsds2024). See you in Sapporo, Japan!
 
