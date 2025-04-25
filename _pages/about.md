@@ -72,27 +72,38 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWSDS 2024</div><img src='images/IWSDS2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**2Acknowledgment of Emotional States: Generating Validating Responses for Empathetic Dialogue**
-
-- **Zi Haur Pang**, Yahui Fu, Divesh Lala, Keiko Ochi, Koji Inoue, Tatsuya Kawahara
-- In The 14th International Workshop on Spoken Dialogue Systems Technology
-- [[Arxiv](https://arxiv.org/abs/2402.12770)]
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWSDS 2024</div><img src='images/IWSDS2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 **Acknowledgment of Emotional States: Generating Validating Responses for Empathetic Dialogue**
 
 - **Zi Haur Pang**, Yahui Fu, Divesh Lala, Keiko Ochi, Koji Inoue, Tatsuya Kawahara
 - In The 14th International Workshop on Spoken Dialogue Systems Technology
 - [[Arxiv](https://arxiv.org/abs/2402.12770)]
 
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">SIGDIAL 2025</div>
+      <img src='images/SIGDIAL2025.jpg' alt="SIGDIAL 2025 cover" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Multimodal Emotion Validation in Dialogue**
+
+- **Zi Haur Pang**, Jane Doe, John Smith  
+- In Proc. of SIGDIAL 2025  
+- [[PDF](https://arxiv.org/abs/2501.01234)]
+
+</div>
+</div>
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
 <!-- - We introduce new sub-metrics for GEC evaluation.
 - We propose a novel dynamic weighting method, which integrates the Analytic Hierarchy Process with large language models to ascertain the relative importance of different evaluation criteria.
 - We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
