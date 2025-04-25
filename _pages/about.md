@@ -69,7 +69,7 @@ Feel free to reach out, or learn more from [My CV](assets/Zi Haur's CV.pdf).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWSDS 2024</div><img src='images/COLING2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/COLING2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Human-Like Embodied AI Interviewer: Employing Android ERICA in Real International Conference**
