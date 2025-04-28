@@ -1,9 +1,9 @@
 ---
-layout: page
 title: "Bio"
 permalink: /bio/
 author_profile: true
 ---
+
 
 # 📖 Educations
 - *2024.04 - Present*: &nbsp;Doctorate of Informatics in Intelligent Science and Technology, Kyoto University.
