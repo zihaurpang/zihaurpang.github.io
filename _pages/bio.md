@@ -1,7 +1,11 @@
 ---
+layout: single
 title: "Bio"
 permalink: /bio/
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 
