@@ -24,7 +24,7 @@ Hi! I’m Zi Haur 👋
 
 I am a second-year Ph.D. student in [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervision of Professor [Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My research lies at the intersection of affective computing, human–AI/robot interaction, and spoken dialogue systems. Specifically, I investigate how multimodal embodied conversational agents—ranging from virtual avatars to human-like androids—can recognize, validate, and ultimately alleviate human emotions through natural speech. I also explore how an agent’s embodiment and conversational intelligence influence user behavior during interaction. 
 
-Feel free to reach out ```zihaurpang@gmail.com```, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
+Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 
 <!--
 <div class="highlight-blocks">
@@ -115,11 +115,6 @@ Feel free to reach out ```zihaurpang@gmail.com```, or learn more from [My CV](..
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🥇 Honors and Awards
-- *2024.08*: &nbsp;Second Prize in the Beijing Trial of the College Student "Innovation, Creativity and Entrepreneurship" Competition
-- *2024.05*: &nbsp;Honorable Mention of 2024 Mathematical Contest In Modeling
-- *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
-
 # 📖 Educations
 - *2024.04 - Present*: &nbsp;Doctorate of Informatics in Intelligent Science and Technology, Kyoto University.
 - *2022.04 - 2024.03*: &nbsp;Master of Informatics in Intelligent Science and Technology, Kyoto University.
@@ -131,8 +126,14 @@ Feel free to reach out ```zihaurpang@gmail.com```, or learn more from [My CV](..
 
 # 💻 Experience
 - *2020.09 - 2022.03*: &nbsp;Data Scientist, [AirAsia.Com Travel Sdn. Bhd.](https://www.airasia.com/en/gb).
-- *2020.05 - 2020.12*: &nbsp;Research Assistant, [Institute of Actuarial Science and Data Analytics](https://www.ucsiuniversity.edu.my/about-us/Institute-of-Actuarial-Science-and-Data-Analytics), **UCSI University**.
+- *2020.05 - 2020.12*: &nbsp;Research Assistant, [Institute of Actuarial Science and Data Analytics](https://www.ucsiuniversity.edu.my/about-us/Institute-of-Actuarial-Science-and-Data-Analytics), UCSI University.
 - *2019.10 - 2019.12*: &nbsp;Data Analyst Intern, [SIC Co. Ltd](https://sic-holdings.com/en/sic/).
+
+# 🥇 Honors and Awards
+- *2025.02*: &nbsp;Outstanding Research Award, awarded by [Kyoto University ICT Collaboration Promotion Network](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/19th/panel/2339/).
+- *2022.04 - 2027.03*: &nbsp;[Japanese Government （Monbukagakusho: MEXT） Scholarship](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm), awarded by Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan.
+- *2017.01 - 2020.12*: &nbsp;[UCSI University Trust Scholarship](https://www.ucsiuniversitytrust.com/scholarship/)(100% Tuition Waiver), awarded by UCSI University.
+
 
 <!--
 # 📚 Blogs
