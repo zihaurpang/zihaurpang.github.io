@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Honors and Awards"
-    url: "/#-honor-and-awards"
+    url: "#-honor-and-awards"
 
   - title: "Experience"
     url: "/#-experience"
