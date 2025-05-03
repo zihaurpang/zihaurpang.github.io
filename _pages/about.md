@@ -131,8 +131,8 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 
 # 🥇 Honors and Awards
 - *2025.02*: &nbsp;Outstanding Research Award, awarded by [Kyoto University ICT Collaboration Promotion Network](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/19th/panel/2339/).
-- *2022.04 - 2027.03*: &nbsp;[Japanese Government （Monbukagakusho: MEXT） Scholarship](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm), awarded by Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan.
-- *2017.01 - 2020.12*: &nbsp;[UCSI University Trust Scholarship](https://www.ucsiuniversitytrust.com/scholarship/)(100% Tuition Waiver), awarded by UCSI University.
+- *2022.04 - 2027.03*: &nbsp;[MEXT Scholarship](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm), awarded by Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan.
+- *2017.01 - 2020.12*: &nbsp;[UCSI University Trust Scholarship](https://www.ucsiuniversitytrust.com/scholarship/) (100% Tuition Waiver), awarded by UCSI University.
 
 
 <!--
