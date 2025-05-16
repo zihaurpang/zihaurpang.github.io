@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zi Haur Pang"
+title                    : "Zi Haur Pang / 彭子豪"
 title_separator          : 
 subtitle                 : 
-name                     : "Zi Haur Pang"
+name                     : "Zi Haur Pang / 彭子豪"
 description              : "Per aspera ad astra✨"
 url                     : https://zihaurpang.github.io
 baseurl                 : ""
@@ -27,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zi Haur Pang"
+  name             : "Zi Haur Pang / 彭子豪"
   avatar           : "images/profile_pic.png"
   bio              : "Kyoto University"
   location         : "Kyoto, Japan"
