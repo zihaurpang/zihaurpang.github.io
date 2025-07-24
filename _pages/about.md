@@ -76,7 +76,7 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 
 - **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara
 - In CHI Conference on Human Factors in Computing Systems 2025
-- [[Arxiv](https://arxiv.org/abs/2503.13625)]
+- [[Arxiv](https://arxiv.org/abs/2503.13625)] [[Presentation Video](https://youtu.be/c--sE7Weyio)]
 
 </div>
 </div>
@@ -88,7 +88,7 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 
 - **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara
 - In The 31st International Conference on Computational Linguistics
-- [[Arxiv](https://arxiv.org/abs/2412.09867)]
+- [[Arxiv](https://arxiv.org/abs/2412.09867)] [[Demo](https://youtu.be/jCuw9g99KuE)] 
 
 </div>
 </div>
