@@ -9,8 +9,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Selected Publications"
-    url: "/#-Selected Publications"
+  - title: "Publications"
+    url: "/#-Publications"
+
+  # - title: "Selected Publications"
+  #   url: "/#-Selected Publications"
 
   - title: "Educations"
     url: "/#-educations"
@@ -21,8 +24,8 @@ main:
   - title: "Experience"
     url: "/#-experience"
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "blogs"
   #   url: "/#-blogs"
