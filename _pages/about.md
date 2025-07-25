@@ -67,7 +67,7 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 - *2024.11*: &nbsp;🎉🎉 Our paper is accepted by [The 31st International Conference on Computational Linguistics (COLING 2025)](https://aclanthology.org/events/coling-2025/). See you in Abu Dhabi, United Arab Emirates!
 - *2023.12*: &nbsp;🎉🎉 Our paper is accepted by [The 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS 2024)](https://sites.google.com/grp.riken.jp/iwsds2024). See you in Sapporo, Japan!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
