@@ -94,13 +94,14 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWSDS 2024</div><div class="badge">BEST PAPER NOMINEE🏆</div><img src='images/IWSDS2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWSDS 2024</div><img src='images/IWSDS2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Acknowledgment of Emotional States: Generating Validating Responses for Empathetic Dialogue**
 
 - **Zi Haur Pang**, Yahui Fu, Divesh Lala, Keiko Ochi, Koji Inoue, Tatsuya Kawahara
 - In The 14th International Workshop on Spoken Dialogue Systems Technology
+- BEST PAPER NOMINEE🏆
 - [[Arxiv](https://arxiv.org/abs/2402.12770)]
 
 </div>
