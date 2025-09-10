@@ -101,7 +101,7 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 
 - **Zi Haur Pang**, Yahui Fu, Divesh Lala, Keiko Ochi, Koji Inoue, Tatsuya Kawahara
 - In The 14th International Workshop on Spoken Dialogue Systems Technology
-- BEST PAPER NOMINEE🏆
+- **BEST PAPER NOMINEE🏆**
 - [[Arxiv](https://arxiv.org/abs/2402.12770)]
 
 </div>
