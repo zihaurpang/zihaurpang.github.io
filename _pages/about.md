@@ -127,6 +127,7 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 
 # 💻 Experience
 - *2025.06 - 2025.07*: &nbsp;Research Intern, [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/), Boise State University.
+- *2024.04 - 2024.08*: &nbsp;Teaching Assistant, [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), Kyoto University.
 - *2020.09 - 2022.03*: &nbsp;Data Scientist, [AirAsia.Com Travel Sdn. Bhd.](https://www.airasia.com/en/gb).
 - *2020.05 - 2020.12*: &nbsp;Research Assistant, [Institute of Actuarial Science and Data Analytics](https://www.ucsiuniversity.edu.my/about-us/Institute-of-Actuarial-Science-and-Data-Analytics), UCSI University.
 - *2019.10 - 2019.12*: &nbsp;Data Analyst Intern, [SIC Co. Ltd](https://sic-holdings.com/en/sic/).
