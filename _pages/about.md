@@ -137,6 +137,15 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 - *2022.04 - 2027.03*: &nbsp;[MEXT Scholarship](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm), awarded by Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan.
 - *2017.01 - 2020.12*: &nbsp;[UCSI University Trust Scholarship](https://www.ucsiuniversitytrust.com/scholarship/) (100% Tuition Waiver), awarded by UCSI University.
 
+# 📸 Media Article
+- *2024.11*: &nbsp;[La Presse au Japon Les robots au chevet des aînés - Erica, une humanoïde pour créer des liens](https://plus.lapresse.ca/screens/aa3dcbdf-42b2-46b0-926f-a4f32e18a539__7C___0.html).
+
+# 🔎 Reviewer Experiences
+- *2026*: &nbsp;The ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
+- *2025*: &nbsp;Empirical Methods in Natural Language Processing (EMNLP)
+- *2025*: &nbsp;International Conference on Multimodal Interaction (ICMI) Late Breaking Result track
+- *2025*: &nbsp;The ACM CHI conference on Human Factors in Computing Systems (CHI) Late Breaking Result track
+- *2024 - 2025*: &nbsp;PeerJ Computer Science
 
 <!--
 # 📚 Blogs
