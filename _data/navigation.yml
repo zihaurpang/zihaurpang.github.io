@@ -9,23 +9,23 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Research"
-    url: /research/
+  - title: "Educations"
+    url: "/#-educations"
 
-  # - title: "Publications"
-  #   url: "/#-publications"
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
-  # - title: "Selected Publications"
-  #   url: "/#-Selected Publications"
+  - title: "Publications"
+    url: "/#-publications"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Honors and Awards"
+    url: "#-honor-and-awards"
 
-  # - title: "Honors and Awards"
-  #   url: "#-honor-and-awards"
+  - title: "Media Article"
+    url: "/#-media-article"
 
-  # - title: "Experience"
-  #   url: "/#-experience"
+  - title: "Reviewer Experiences"
+    url: "/#-reviewer-experiences"
 
   # - title: "Publications"
   #   url: /publications/
