@@ -18,14 +18,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "#-honor-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "#-honor-and-awards"
 
-  - title: "Media Article"
-    url: "/#-media-article"
+  # - title: "Media Article"
+  #   url: "/#-media-article"
 
-  - title: "Reviewer Experiences"
-    url: "/#-reviewer-experiences"
+  # - title: "Reviewer Experiences"
+  #   url: "/#-reviewer-experiences"
 
   # - title: "Publications"
   #   url: /publications/
