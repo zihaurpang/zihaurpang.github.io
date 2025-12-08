@@ -126,7 +126,7 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Experience
+# 💻 Research Experience
 - *2025.06 - 2025.07*: &nbsp;Research Intern, [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/), Boise State University.
 - *2024.04 - 2024.08*: &nbsp;Teaching Assistant, [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), Kyoto University.
 - *2020.09 - 2022.03*: &nbsp;Data Scientist, [AirAsia.Com Travel Sdn. Bhd.](https://www.airasia.com/en/gb).
