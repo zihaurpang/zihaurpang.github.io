@@ -63,11 +63,12 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 -->
+- *2025.06*: &nbsp;I have joined [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/) as a Research Intern under the guidance of [Dr. Casey Kennington](https://www.caseyreddkennington.com/about).
 - *2025.02*: &nbsp;🎉🎉 Our paper is accepted by [CHI Conference on Human Factors in Computing Systems 2025 (CHI 2025)](https://chi2025.acm.org/). See you in Yokohama, Japan!
 - *2024.11*: &nbsp;🎉🎉 Our paper is accepted by [The 31st International Conference on Computational Linguistics (COLING 2025)](https://aclanthology.org/events/coling-2025/). See you in Abu Dhabi, United Arab Emirates!
 - *2023.12*: &nbsp;🎉🎉 Our paper is accepted by [The 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS 2024)](https://sites.google.com/grp.riken.jp/iwsds2024). See you in Sapporo, Japan!
 
-# 📝 Selected Publications
+<!-- # 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,8 +137,8 @@ Feel free to reach out, or learn more from [My CV](../docs/Zi_Haur_CV.pdf).
 - Yahui Fu, **Zi Haur Pang**, Tatsuya Kawahara. [Minority-Aware Satisfaction Estimation in Dialogue Systems via Preference-Adaptive Reinforcement Learning](https://arxiv.org/pdf/2511.05407), IJCNLP-AACL, 2025.
 - Koji Inoue, Mikey Elmers, Yahui Fu, **Zi Haur Pang**, Divesh Lala, Keiko Ochi, Tatsuya Kawahara. [Prompt-Guided Turn-Taking Prediction](https://arxiv.org/pdf/2506.21191), SIGDIAL, 2025.
 - Divesh Lala, Mikey Elmers, Koji Inoue, **Zi Haur Pang**, Keiko Ochi, Tatsuya Kawahara. [ScriptBoard: Designing modern spoken dialogue systems through visual programming](https://aclanthology.org/2025.iwsds-1.17.pdf), IWSDS, 2025.
-- **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara. [Does the Appearance of Autonomous Conversational Robots Affect User Spoken Behaviors in Real-World Conference Interactions?](https://arxiv.org/pdf/2503.13625), CHI EA, 2025.
-- **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara. [Human-Like Embodied AI Interviewer: Employing Android ERICA in Real International Conference](https://aclanthology.org/2025.coling-demos.14.pdf), COLING, 2025.
+- **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara. [Does the Appearance of Autonomous Conversational Robots Affect User Spoken Behaviors in Real-World Conference Interactions?](https://arxiv.org/pdf/2503.13625), CHI EA, 2025. [[Presentation Video](https://youtu.be/c--sE7Weyio)]
+- **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara. [Human-Like Embodied AI Interviewer: Employing Android ERICA in Real International Conference](https://aclanthology.org/2025.coling-demos.14.pdf), COLING, 2025. [[Demo](https://youtu.be/jCuw9g99KuE)] 
 - **Zi Haur Pang**. [Toward More Human-like SDSs: Advancing Emotional and Social Engagement in Embodied Conversational Agents](https://aclanthology.org/2024.yrrsds-1.32.pdf), YRRSDS, 2024.
 - Divesh Lala, Koji Inoue, Haruki Kawai, **Zi Haur Pang**, Mikey Elmers, Tatsuya Kawahara. [Development and evaluation of a semi-autonomous parallel attentive listening system](http://sap.ist.i.kyoto-u.ac.jp/EN/bib/intl/LAL-APSIPA24.pdf), APSIPA ASC, 2024.
 - **Zi Haur Pang**, Yahui Fu, Divesh Lala, Keiko Ochi, Koji Inoue, Tatsuya Kawahara. [Acknowledgment of emotional states: Generating validating responses for empathetic dialogue](https://arxiv.org/pdf/2402.12770), IWSDS, 2024. <span style="color: red;">[BEST PAPER NOMINEE🏆]</span>
