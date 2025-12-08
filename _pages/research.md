@@ -1,9 +1,8 @@
 ---
-permalink: /research.html
+permalink: /research/
 title: "Research"
 excerpt: ""
 author_profile: true
-layout: page   # optional; uses default layout if omitted
 ---
 
 # 📝 Publications
