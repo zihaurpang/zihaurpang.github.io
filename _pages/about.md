@@ -63,6 +63,7 @@ Feel free to reach out, or learn more from [My CV](/Zi_Haur_CV.pdf).
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 -->
+- *2025.12*: &nbsp;I have joined [A*STAR Institute for Infocomm Research (A*STAR I²R)](https://www.a-star.edu.sg/i2r) as a Research Intern under the guidance of [Dr. Gao Xiaoxue](https://xiaoxue1117.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/).
 - *2025.06*: &nbsp;I have joined [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/) as a Research Intern under the guidance of [Dr. Casey Kennington](https://www.caseyreddkennington.com/about).
 - *2025.02*: &nbsp;🎉🎉 Our paper is accepted by [CHI Conference on Human Factors in Computing Systems 2025 (CHI 2025)](https://chi2025.acm.org/). See you in Yokohama, Japan!
 - *2024.11*: &nbsp;🎉🎉 Our paper is accepted by [The 31st International Conference on Computational Linguistics (COLING 2025)](https://aclanthology.org/events/coling-2025/). See you in Abu Dhabi, United Arab Emirates!
@@ -127,6 +128,7 @@ Feel free to reach out, or learn more from [My CV](/Zi_Haur_CV.pdf).
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
+- *2025.12 - Present*: &nbsp;Research Intern, [Institute for Infocomm Research (I²R)](https://www.a-star.edu.sg/i2r), Agency for Science, Technology, and Research (A*STAR).
 - *2025.06 - 2025.07*: &nbsp;Research Intern, [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/), Boise State University.
 - *2024.04 - 2024.08*: &nbsp;Teaching Assistant, [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), Kyoto University.
 - *2020.09 - 2022.03*: &nbsp;Data Scientist, [AirAsia.Com Travel Sdn. Bhd.](https://www.airasia.com/en/gb).
