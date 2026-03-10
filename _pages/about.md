@@ -24,7 +24,7 @@ Hi! I’m Zi Haur 👋
 
 I am a second-year Ph.D. student in [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervision of Professor [Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My research lies at the intersection of affective computing, human–AI/robot interaction, and spoken dialogue systems. Specifically, I investigate how multimodal embodied conversational agents—ranging from virtual avatars to human-like androids—can recognize, validate, and ultimately alleviate human emotions through natural speech. I also explore how an agent’s embodiment and conversational intelligence influence user behavior during interaction. 
 
-Feel free to reach out, or learn more from [My CV](/Zi_Haur_CV.pdf).
+Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang/zihaurpang.github.io/blob/main/Zi_Haur_CV.pdf).
 
 <!--
 <div class="highlight-blocks">
@@ -63,6 +63,7 @@ Feel free to reach out, or learn more from [My CV](/Zi_Haur_CV.pdf).
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 -->
+- *2026.01*: &nbsp;🎉🎉 Our papers are accepted by [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/). See you in Barcelona, Spain!
 - *2025.12*: &nbsp;I have joined [A\*STAR Institute for Infocomm Research (A\*STAR I²R)](https://www.a-star.edu.sg/i2r) as a Research Intern under the guidance of [Dr. Gao Xiaoxue](https://xiaoxue1117.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/).
 - *2025.06*: &nbsp;I have joined [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/) as a Research Intern under the guidance of [Dr. Casey Kennington](https://www.caseyreddkennington.com/about).
 - *2025.02*: &nbsp;🎉🎉 Our paper is accepted by [CHI Conference on Human Factors in Computing Systems 2025 (CHI 2025)](https://chi2025.acm.org/). See you in Yokohama, Japan!
@@ -136,14 +137,16 @@ Feel free to reach out, or learn more from [My CV](/Zi_Haur_CV.pdf).
 - *2019.10 - 2019.12*: &nbsp;Data Analyst Intern, [SIC Co. Ltd](https://sic-holdings.com/en/sic/).
 
 # 📝 Publications
+- **Zi Haur Pang**, Yahui Fu, Yuan Gao, Tatsuya Kawahara. Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue, ICASSP, 2026.
+- Muyun Wu, **Zi Haur Pang**, Koji Inoue, Tatsuya Kawahara. Still Thinking or Stopped Talking? Dialogue Silence Intention Classification Using Multimodal Large Language Model, ICASSP, 2026. 
 - Yahui Fu, **Zi Haur Pang**, Tatsuya Kawahara. [Minority-Aware Satisfaction Estimation in Dialogue Systems via Preference-Adaptive Reinforcement Learning](https://arxiv.org/pdf/2511.05407), IJCNLP-AACL, 2025.
 - Koji Inoue, Mikey Elmers, Yahui Fu, **Zi Haur Pang**, Divesh Lala, Keiko Ochi, Tatsuya Kawahara. [Prompt-Guided Turn-Taking Prediction](https://arxiv.org/pdf/2506.21191), SIGDIAL, 2025.
-- Divesh Lala, Mikey Elmers, Koji Inoue, **Zi Haur Pang**, Keiko Ochi, Tatsuya Kawahara. [ScriptBoard: Designing modern spoken dialogue systems through visual programming](https://aclanthology.org/2025.iwsds-1.17.pdf), IWSDS, 2025.
+- Divesh Lala, Mikey Elmers, Koji Inoue, **Zi Haur Pang**, Keiko Ochi, Tatsuya Kawahara. [ScriptBoard: Designing Modern Spoken Dialogue Systems Through Visual Programming](https://aclanthology.org/2025.iwsds-1.17.pdf), IWSDS, 2025.
 - **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara. [Does the Appearance of Autonomous Conversational Robots Affect User Spoken Behaviors in Real-World Conference Interactions?](https://arxiv.org/pdf/2503.13625), CHI EA, 2025. [[Presentation Video](https://youtu.be/c--sE7Weyio)]
 - **Zi Haur Pang**, Yahui Fu, Divesh Lala, Mikey Elmers, Koji Inoue, Tatsuya Kawahara. [Human-Like Embodied AI Interviewer: Employing Android ERICA in Real International Conference](https://aclanthology.org/2025.coling-demos.14.pdf), COLING, 2025. [[Demo](https://youtu.be/jCuw9g99KuE)] 
 - **Zi Haur Pang**. [Toward More Human-like SDSs: Advancing Emotional and Social Engagement in Embodied Conversational Agents](https://aclanthology.org/2024.yrrsds-1.32.pdf), YRRSDS, 2024.
-- Divesh Lala, Koji Inoue, Haruki Kawai, **Zi Haur Pang**, Mikey Elmers, Tatsuya Kawahara. [Development and evaluation of a semi-autonomous parallel attentive listening system](http://sap.ist.i.kyoto-u.ac.jp/EN/bib/intl/LAL-APSIPA24.pdf), APSIPA ASC, 2024.
-- **Zi Haur Pang**, Yahui Fu, Divesh Lala, Keiko Ochi, Koji Inoue, Tatsuya Kawahara. [Acknowledgment of emotional states: Generating validating responses for empathetic dialogue](https://arxiv.org/pdf/2402.12770), IWSDS, 2024. <span style="color: red;">[BEST PAPER NOMINEE🏆]</span>
+- Divesh Lala, Koji Inoue, Haruki Kawai, **Zi Haur Pang**, Mikey Elmers, Tatsuya Kawahara. [Development and Evaluation of A Semi-autonomous Parallel Attentive Listening System](http://sap.ist.i.kyoto-u.ac.jp/EN/bib/intl/LAL-APSIPA24.pdf), APSIPA ASC, 2024.
+- **Zi Haur Pang**, Yahui Fu, Divesh Lala, Keiko Ochi, Koji Inoue, Tatsuya Kawahara. [Acknowledgment of Emotional States: Generating Validating Responses for Empathetic Dialogue](https://arxiv.org/pdf/2402.12770), IWSDS, 2024. <span style="color: red;">[BEST PAPER NOMINEE🏆]</span>
 
 
 # 🥇 Honors and Awards
@@ -155,11 +158,11 @@ Feel free to reach out, or learn more from [My CV](/Zi_Haur_CV.pdf).
 - *2024.11*: &nbsp;[La Presse au Japon Les robots au chevet des aînés - Erica, une humanoïde pour créer des liens](https://plus.lapresse.ca/screens/aa3dcbdf-42b2-46b0-926f-a4f32e18a539__7C___0.html).
 
 # 🔎 Reviewer Experiences
+- *2025 - 2026*: &nbsp;The ACM CHI conference on Human Factors in Computing Systems (CHI) Late Breaking Result track
 - *2026*: &nbsp;The ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
 - *2025*: &nbsp;Empirical Methods in Natural Language Processing (EMNLP)
 - *2025*: &nbsp;International Conference on Multimodal Interaction (ICMI) Late Breaking Result track
-- *2025*: &nbsp;The ACM CHI conference on Human Factors in Computing Systems (CHI) Late Breaking Result track
-- *2024 - 2025*: &nbsp;PeerJ Computer Science
+- *2024 - 2026*: &nbsp;PeerJ Computer Science
 
 <!--
 # 📚 Blogs
