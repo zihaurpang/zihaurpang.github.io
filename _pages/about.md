@@ -63,6 +63,7 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 -->
+- *2026.02*: &nbsp;I have been selected as a student volunteer for the [CHI Conference on Human Factors in Computing Systems 2026 (CHI 2026)](https://chi2026.acm.org/). See you in Barcelona, Spain!
 - *2026.01*: &nbsp;🎉🎉 Our papers are accepted by [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/). See you in Barcelona, Spain!
 - *2025.12*: &nbsp;I have joined [A\*STAR Institute for Infocomm Research (A\*STAR I²R)](https://www.a-star.edu.sg/i2r) as a Research Intern under the guidance of [Dr. Gao Xiaoxue](https://xiaoxue1117.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/).
 - *2025.06*: &nbsp;I have joined [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/) as a Research Intern under the guidance of [Dr. Casey Kennington](https://www.caseyreddkennington.com/about).
