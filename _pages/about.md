@@ -22,7 +22,7 @@ redirect_from:
 Hi! I’m Zi Haur 👋
 =======
 
-I am a second-year Ph.D. student in [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervision of Professor [Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My research lies at the intersection of affective computing, human–AI/robot interaction, and spoken dialogue systems. Specifically, I investigate how multimodal embodied conversational agents—ranging from virtual avatars to human-like androids—can recognize, validate, and ultimately alleviate human emotions through natural speech. I also explore how an agent’s embodiment and conversational intelligence influence user behavior during interaction. 
+I am a second-year Ph.D. student in [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervision of Professor [Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My research lies at the intersection of affective computing, human–AI/robot interaction, and spoken dialogue systems. Specifically, I investigate how multilingual multimodal embodied conversational agents—ranging from virtual avatars to human-like androids—can recognize, validate, and ultimately alleviate human emotions through natural speech. I also explore how an agent’s embodiment and conversational intelligence influence user behavior during interaction. 
 
 Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang/zihaurpang.github.io/blob/main/Zi_Haur_CV.pdf).
 
