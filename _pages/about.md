@@ -164,6 +164,17 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2025*: &nbsp;International Conference on Multimodal Interaction (ICMI) Late Breaking Result track
 - *2024 - 2026*: &nbsp;PeerJ Computer Science
 
+# 🔬 Research Projects
+- [JST NEXUS: Expressive and Empathetic Human-AI Interaction by Enhancing Multilingual, Multimodal Large Language Models](https://www.jst.go.jp/aspire/nexus/en/project/index.html)
+- [JST MOONSHOT: Realization of A Society in Which Human Beings Can Be Free From Limitations of Body, Brain, Space, and Time By 2050](https://avatar-ss.org/en/about/index.html)
+- [KAKENHI: Intelligent Conversational System for Dialogue Engagement and Rapport with Humans](https://kaken.nii.ac.jp/grant/KAKENHI-PLANNED-19H05691/)
+
+# 🏛️ Affiliated Associations
+- [American Psychological Association (APA)](https://www.apa.org/)
+- [Association for Computing Machinery (ACM)](https://www.acm.org/)
+- [The ACM Special Interest Group on Computer-Human Interaction (SIGCHI)](https://sigchi.org/about/)
+- [Mensa Malaysia](https://mensa.my/)
+
 <!--
 # 📚 Blogs
 
