@@ -171,11 +171,11 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - [KAKENHI: Intelligent Conversational System for Dialogue Engagement and Rapport with Humans](https://kaken.nii.ac.jp/grant/KAKENHI-PLANNED-19H05691/)
 
 # 🤝 Community Involvement
-- *2026*: &nbsp;Student Volunteer, [CHI Conference on Human Factors in Computing Systems 2026 (CHI 2026)](https://chi2026.acm.org/)
-- *2026*: &nbsp;Student Volunteer, [Audio-Centric AI: Towards Real-World Multimodal Reasoning and Application Use Cases (Audio-AAAI)](https://sites.google.com/view/audio-aaai/home)
-- *2024*: &nbsp;Student Volunteer, [SIGDIAL 2024](https://2024.sigdial.org/)
-- *2024*: &nbsp;Student Volunteer, [20th Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers (YRRSDS 2024)](https://sites.google.com/view/yrrsds2024/)
-- *2022*: &nbsp;Student Volunteer, [The 36th Annual Conference of the Japanese Society for Artificial Intelligence, 2022](https://www.ai-gakkai.or.jp/jsai2022/en/)
+- *2026.04*: &nbsp;Student Volunteer, [CHI Conference on Human Factors in Computing Systems 2026 (CHI 2026)](https://chi2026.acm.org/)
+- *2026.01*: &nbsp;Student Volunteer, [Audio-Centric AI: Towards Real-World Multimodal Reasoning and Application Use Cases (Audio-AAAI)](https://sites.google.com/view/audio-aaai/home)
+- *2024.09*: &nbsp;Student Volunteer, [SIGDIAL 2024](https://2024.sigdial.org/)
+- *2024.09*: &nbsp;Student Volunteer, [20th Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers (YRRSDS 2024)](https://sites.google.com/view/yrrsds2024/)
+- *2022.06*: &nbsp;Student Volunteer, [The 36th Annual Conference of the Japanese Society for Artificial Intelligence, 2022](https://www.ai-gakkai.or.jp/jsai2022/en/)
 
 # 🏛️ Affiliated Associations
 - [American Psychological Association (APA)](https://www.apa.org/)
