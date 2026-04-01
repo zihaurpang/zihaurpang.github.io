@@ -22,7 +22,7 @@ redirect_from:
 Hi! I’m Zi Haur 👋
 =======
 
-I am a second-year Ph.D. student in [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervision of Professor [Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My research lies at the intersection of affective computing, human–AI/robot interaction, and spoken dialogue systems. Specifically, I investigate how multilingual multimodal embodied conversational agents—ranging from virtual avatars to human-like androids—can recognize, validate, and ultimately alleviate human emotions through natural speech. I also explore how an agent’s embodiment and conversational intelligence influence user behavior during interaction. 
+I am a third-year Ph.D. student in [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervision of Professor [Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My research lies at the intersection of affective computing, human–AI/robot interaction, and spoken dialogue systems. Specifically, I investigate how multilingual multimodal embodied conversational agents—ranging from virtual avatars to human-like androids—can recognize, validate, and ultimately alleviate human emotions through natural speech. I also explore how an agent’s embodiment and conversational intelligence influence user behavior during interaction. 
 
 Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang/zihaurpang.github.io/blob/main/Zi_Haur_CV.pdf).
 
@@ -130,7 +130,7 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
-- *2025.12 - Present*: &nbsp;Research Intern, [Institute for Infocomm Research (I²R)](https://www.a-star.edu.sg/i2r), Agency for Science, Technology, and Research (A*STAR).
+- *2025.12 - 2026.04*: &nbsp;Research Intern, [Institute for Infocomm Research (I²R)](https://www.a-star.edu.sg/i2r), Agency for Science, Technology, and Research (A*STAR).
 - *2025.06 - 2025.07*: &nbsp;Research Intern, [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/), Boise State University.
 - *2024.04 - 2024.08*: &nbsp;Teaching Assistant, [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), Kyoto University.
 - *2020.09 - 2022.03*: &nbsp;Data Scientist, [AirAsia.Com Travel Sdn. Bhd.](https://www.airasia.com/en/gb).
