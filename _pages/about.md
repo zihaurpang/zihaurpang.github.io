@@ -63,6 +63,7 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 -->
+- *2026.04*: &nbsp;I have joined [Speech Technology and Machine Learning Group](https://blogs.upm.es/gthau/) as a Research Scholar under the guidance of [Dr. Luis Fernando D’Haro](https://blogs.upm.es/gthau/luis-fernando-dharo/).
 - *2026.02*: &nbsp;I have been selected as a student volunteer for the [CHI Conference on Human Factors in Computing Systems 2026 (CHI 2026)](https://chi2026.acm.org/). See you in Barcelona, Spain!
 - *2026.01*: &nbsp;🎉🎉 Our papers are accepted by [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/). See you in Barcelona, Spain!
 - *2025.12*: &nbsp;I have joined [A\*STAR Institute for Infocomm Research (A\*STAR I²R)](https://www.a-star.edu.sg/i2r) as a Research Intern under the guidance of [Dr. Gao Xiaoxue](https://xiaoxue1117.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/).
@@ -130,7 +131,8 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
-- *2025.12 - 2026.04*: &nbsp;Research Intern, [Institute for Infocomm Research (I²R)](https://www.a-star.edu.sg/i2r), Agency for Science, Technology, and Research (A*STAR).
+- *2026.04 - Present*: &nbsp;Research Scholar, [Speech Technology and Machine Learning Group](https://blogs.upm.es/gthau/), Technical University of Madrid (Universidad Politécnica de Madrid, UPM).
+- *2025.12 - Present*: &nbsp;Research Intern, [Institute for Infocomm Research (I²R)](https://www.a-star.edu.sg/i2r), Agency for Science, Technology, and Research (A*STAR).
 - *2025.06 - 2025.07*: &nbsp;Research Intern, [Speech, Language & Interactive Machines (SLIM) Research Group](https://www.boisestate.edu/coen-slim/), Boise State University.
 - *2024.04 - 2024.08*: &nbsp;Teaching Assistant, [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), Kyoto University.
 - *2020.09 - 2022.03*: &nbsp;Data Scientist, [AirAsia.Com Travel Sdn. Bhd.](https://www.airasia.com/en/gb).
