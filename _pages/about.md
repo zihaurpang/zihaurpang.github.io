@@ -141,7 +141,7 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 
 # 📝 Publications
 - **Zi Haur Pang**, Yahui Fu, Yuan Gao, Tatsuya Kawahara. [Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue](https://arxiv.org/pdf/2603.09307), ICASSP, 2026.
-- Muyun Wu, **Zi Haur Pang**, Koji Inoue, Tatsuya Kawahara. Still Thinking or Stopped Talking? Dialogue Silence Intention Classification Using Multimodal Large Language Model, ICASSP, 2026. 
+- Muyun Wu, **Zi Haur Pang**, Koji Inoue, Tatsuya Kawahara. [Still Thinking or Stopped Talking? Dialogue Silence Intention Classification Using Multimodal Large Language Model](https://ieeexplore-ieee-org.kyoto-u.idm.oclc.org/abstract/document/11464331), ICASSP, 2026. 
 - Yahui Fu, **Zi Haur Pang**, Tatsuya Kawahara. [Minority-Aware Satisfaction Estimation in Dialogue Systems via Preference-Adaptive Reinforcement Learning](https://arxiv.org/pdf/2511.05407), IJCNLP-AACL, 2025.
 - Koji Inoue, Mikey Elmers, Yahui Fu, **Zi Haur Pang**, Divesh Lala, Keiko Ochi, Tatsuya Kawahara. [Prompt-Guided Turn-Taking Prediction](https://arxiv.org/pdf/2506.21191), SIGDIAL, 2025.
 - Divesh Lala, Mikey Elmers, Koji Inoue, **Zi Haur Pang**, Keiko Ochi, Tatsuya Kawahara. [ScriptBoard: Designing Modern Spoken Dialogue Systems Through Visual Programming](https://aclanthology.org/2025.iwsds-1.17.pdf), IWSDS, 2025.
