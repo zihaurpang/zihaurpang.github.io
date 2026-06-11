@@ -63,6 +63,9 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 -->
+- *2026.06*: &nbsp;🎉🎉 Our papers are accepted by [INTERSPEECH 2026](https://interspeech2026.org/en-AU). See you in Sydney, Australia!
+- *2026.06*: &nbsp;🎉🎉 Our paper is accepted by [The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026)](https://2026.sigdial.org/). See you in Atlanta, Georgia, USA!
+- *2026.06*: &nbsp;🎉🎉 Our non-archival paper is accepted by [Learning to Listen: ICML 2026 Workshop on Machine Learning for Audio](https://mlforaudioworkshop.github.io/). See you in Seoul, Korea!
 - *2026.04*: &nbsp;I have joined [Speech Technology and Machine Learning Group](https://blogs.upm.es/gthau/) as a Research Scholar under the guidance of [Dr. Luis Fernando D’Haro](https://blogs.upm.es/gthau/luis-fernando-dharo/).
 - *2026.02*: &nbsp;I have been selected as a student volunteer for the [CHI Conference on Human Factors in Computing Systems 2026 (CHI 2026)](https://chi2026.acm.org/). See you in Barcelona, Spain!
 - *2026.01*: &nbsp;🎉🎉 Our papers are accepted by [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/). See you in Barcelona, Spain!
@@ -140,6 +143,8 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2019.10 - 2019.12*: &nbsp;Data Analyst Intern, [SIC Co. Ltd](https://sic-holdings.com/en/sic/).
 
 # 📝 Publications
+- **Zi Haur Pang**, Xiaoxue Gao, Tatsuya Kawahara, Nancy F. Chen. [ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition](https://arxiv.org/abs/2603.21050), INTERSPEECH, 2026. [[Non-archival@ICML Workshop](https://mlforaudioworkshop.github.io/)]
+- **Zi Haur Pang**, Yahui Fu, Koji Inoue, Tatsuya Kawahara. [I Understand How You Feel: Enhancing Deeper Emotional Support Through Multilingual Emotional Validation in Dialogue System](https://arxiv.org/abs/2606.11875), SIGDIAL, 2026.
 - **Zi Haur Pang**, Yahui Fu, Yuan Gao, Tatsuya Kawahara. [Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue](https://arxiv.org/pdf/2603.09307), ICASSP, 2026.
 - Muyun Wu, **Zi Haur Pang**, Koji Inoue, Tatsuya Kawahara. [Still Thinking or Stopped Talking? Dialogue Silence Intention Classification Using Multimodal Large Language Model](https://ieeexplore-ieee-org.kyoto-u.idm.oclc.org/abstract/document/11464331), ICASSP, 2026. 
 - Yahui Fu, **Zi Haur Pang**, Tatsuya Kawahara. [Minority-Aware Satisfaction Estimation in Dialogue Systems via Preference-Adaptive Reinforcement Learning](https://arxiv.org/pdf/2511.05407), IJCNLP-AACL, 2025.
@@ -156,6 +161,10 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2025.02*: &nbsp;Outstanding Research Award, awarded by [Kyoto University ICT Collaboration Promotion Network](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/19th/panel/2339/).
 - *2022.04 - 2027.03*: &nbsp;[MEXT Scholarship](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm), awarded by Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan.
 - *2017.01 - 2020.12*: &nbsp;[UCSI University Trust Scholarship](https://www.ucsiuniversitytrust.com/scholarship/) (100% Tuition Waiver), awarded by UCSI University.
+
+# 🗨️ Invited Talk
+- *2026.05*: &nbsp;Can AI Truly Understand Our Emotions? Designing Affective Embodied Conversational Agents for Human–Computer Interaction. *Design Anything Lab, China Academy of Art.*
+- *2026.04*: &nbsp;From Emotion Recognition to Emotional Validation: Toward Fair, Empathetic, Embodied Conversational Agents. *Universidad Politécnica de Madrid (UPM).*
 
 # 📸 Media Article
 - *2024.11*: &nbsp;[La Presse au Japon Les robots au chevet des aînés - Erica, une humanoïde pour créer des liens](https://plus.lapresse.ca/screens/aa3dcbdf-42b2-46b0-926f-a4f32e18a539__7C___0.html).
