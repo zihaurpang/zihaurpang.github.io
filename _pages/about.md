@@ -182,6 +182,7 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - [KAKENHI: Intelligent Conversational System for Dialogue Engagement and Rapport with Humans](https://kaken.nii.ac.jp/grant/KAKENHI-PLANNED-19H05691/)
 
 # 🤝 Community Involvement
+- *2026.07*: &nbsp;Student Volunteer, [Forty-Third International Conference on Machine Learning (ICML 2026)](https://icml.cc/)
 - *2026.04*: &nbsp;Student Volunteer, [CHI Conference on Human Factors in Computing Systems 2026 (CHI 2026)](https://chi2026.acm.org/)
 - *2026.01*: &nbsp;Student Volunteer, [Audio-Centric AI: Towards Real-World Multimodal Reasoning and Application Use Cases (Audio-AAAI)](https://sites.google.com/view/audio-aaai/home)
 - *2024.09*: &nbsp;Student Volunteer, [SIGDIAL 2024](https://2024.sigdial.org/)
