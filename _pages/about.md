@@ -63,6 +63,7 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 -->
+- *2026.07*: &nbsp;🎉🎉 Our papers are accepted by [APSIPA Annual Summit and Conference 2026](https://www.apsipa2026.org/index.html). See you in Bangkok, Thailand!
 - *2026.06*: &nbsp;🎉🎉 Our papers are accepted by [INTERSPEECH 2026](https://interspeech2026.org/en-AU). See you in Sydney, Australia!
 - *2026.06*: &nbsp;🎉🎉 Our paper is accepted by [The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026)](https://2026.sigdial.org/). See you in Atlanta, Georgia, USA!
 - *2026.06*: &nbsp;🎉🎉 Our non-archival paper is accepted by [Learning to Listen: ICML 2026 Workshop on Machine Learning for Audio](https://mlforaudioworkshop.github.io/). See you in Seoul, Korea!
@@ -143,6 +144,7 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2019.10 - 2019.12*: &nbsp;Data Analyst Intern, [SIC Co. Ltd](https://sic-holdings.com/en/sic/).
 
 # 📝 Publications
+- **Zi Haur Pang**, Casey Kennington, Tatsuya Kawahara. [Closing the Affective Loop: Multimodal Speaker–Listener Emotion-Dynamics-Aware Empathetic Social Robots](), APSIPA ASC, 2026.
 - **Zi Haur Pang**, Xiaoxue Gao, Tatsuya Kawahara, Nancy F. Chen. [ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition](https://arxiv.org/abs/2603.21050), INTERSPEECH, 2026. [[Non-archival@ICML Workshop](https://mlforaudioworkshop.github.io/)]
 - **Zi Haur Pang**, Yahui Fu, Koji Inoue, Tatsuya Kawahara. [I Understand How You Feel: Enhancing Deeper Emotional Support Through Multilingual Emotional Validation in Dialogue System](https://arxiv.org/abs/2606.11875), SIGDIAL, 2026.
 - **Zi Haur Pang**, Yahui Fu, Yuan Gao, Tatsuya Kawahara. [Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue](https://arxiv.org/pdf/2603.09307), ICASSP, 2026.
