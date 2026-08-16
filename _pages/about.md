@@ -144,7 +144,7 @@ Feel free to reach out, or learn more from [My CV](https://github.com/zihaurpang
 - *2019.10 - 2019.12*: &nbsp;Data Analyst Intern, [SIC Co. Ltd](https://sic-holdings.com/en/sic/).
 
 # 📝 Publications
-- **Zi Haur Pang**, Casey Kennington, Tatsuya Kawahara. [Closing the Affective Loop: Multimodal Speaker–Listener Emotion-Dynamics-Aware Empathetic Social Robots](), APSIPA ASC, 2026.
+- **Zi Haur Pang**, Casey Kennington, Tatsuya Kawahara. [Closing the Affective Loop: Multimodal Speaker–Listener Emotion-Dynamics-Aware Empathetic Social Robots](), APSIPA ASC, 2026. [[Demo](https://youtube.com/shorts/0NJtTnPpGvc)] 
 - **Zi Haur Pang**, Xiaoxue Gao, Tatsuya Kawahara, Nancy F. Chen. [ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition](https://arxiv.org/abs/2603.21050), INTERSPEECH, 2026. [[Non-archival@ICML Workshop](https://mlforaudioworkshop.github.io/)]
 - **Zi Haur Pang**, Yahui Fu, Koji Inoue, Tatsuya Kawahara. [I Understand How You Feel: Enhancing Deeper Emotional Support Through Multilingual Emotional Validation in Dialogue System](https://arxiv.org/abs/2606.11875), SIGDIAL, 2026.
 - **Zi Haur Pang**, Yahui Fu, Yuan Gao, Tatsuya Kawahara. [Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue](https://arxiv.org/pdf/2603.09307), ICASSP, 2026.
